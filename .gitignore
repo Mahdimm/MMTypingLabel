@@ -1,0 +1,13 @@
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+xcuserdata
+*.xccheckout
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+.DS_Store
